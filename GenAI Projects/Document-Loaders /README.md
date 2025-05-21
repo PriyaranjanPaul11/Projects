@@ -1,0 +1,1 @@
+This project demonstrates how to use different document loaders from the LangChain library to extract and process content from various data sources (PDF, text files, websites, and local directories). The loaded content is then used to build simple prompt chains powered by OpenAI models.
